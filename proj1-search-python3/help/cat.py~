@@ -1,0 +1,10 @@
+from util import Stack as s, Queue as q
+
+st = s()
+qu = q()
+
+st.push(8)
+st.push(10)
+
+qu.push(8)
+qu.push(10)
